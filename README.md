@@ -1,4 +1,4 @@
 - 👋 Hi, I’m charjofra
 - 👀 I’m interested in games and coding
-- 🌱 I’m currently learning java and rust
+- 🌱 I’m currently learning java and python
 - 📫 How to reach me: charjofra@gmail.com
